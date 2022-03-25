@@ -1,0 +1,74 @@
+[
+    {
+      "id": "623e11b4d38834da0455cd44",
+      "key": 1,
+      "price": 40000,
+      "picture": "https://www.freepik.com/free-photo/white-modern-sport-car-parking-road_5895959.htm#query=car&position=45&from_view=search",
+      "Color": "white",
+      "name": "Tesla Model S"
+    },
+    {
+      "id": "623e11b4ef185ff5c60371f8",
+      "key": 2,
+      "price": 42000,
+      "picture": "https://www.freepik.com/free-vector/blue-sedan-car-isolated-white-vector_3601984.htm#query=car&position=21&from_view=search",
+      "Color": "blue",
+      "name": "Tesla Model 3"
+    },
+    {
+      "id": "623e11b4106b519ada9b0680",
+      "key": 3,
+      "price": 44000,
+      "picture": "https://www.freepik.com/free-vector/red-sedan-car-isolated-white-vector_3529785.htm#query=car&position=3&from_view=search",
+      "Color": "red",
+      "name": "Tesla Model X"
+    },
+    {
+      "id": "623e11b4af089fe02621de33",
+      "key": 4,
+      "price": 46000,
+      "picture": "https://www.freepik.com/free-photo/luxury-black-sport-coupe-parking-snowy-road-forest_5895952.htm?query=car",
+      "Color": "brown",
+      "name": "Tesla Model Y"
+    },
+    {
+      "id": "623e11b4af089fe02621de43",
+      "key": 5,
+      "price": 48000,
+      "picture": "https://www.freepik.com/free-vector/white-hatchback-car-isolated-white-vector_3529837.htm?query=car",
+      "Color": "white",
+      "name": "Tesla Model S+"
+    },
+    {
+      "id": "623e11b4af089fe02621de53",
+      "key": 6,
+      "price": 50000,
+      "picture": "https://www.freepik.com/free-photo/black-luxury-sedan-road_6159533.htm?query=car",
+      "Color": "black",
+      "name": "Tesla Model 3+"
+    },
+    {
+      "id": "623e11b4af089fe02621de63",
+      "key": 7,
+      "price": 52000,
+      "picture": "https://www.freepik.com/premium-vector/three-dimensional-red-car-isolated-white-background_2735650.htm?query=car",
+      "Color": "red",
+      "name": "Tesla Model X+"
+    },
+    {
+      "id": "623e11b4af089fe02621de73",
+      "key": 8,
+      "price": 43000,
+      "picture": "https://www.freepik.com/free-vector/blue-sports-car-isolated-white-vector_3602250.htm?query=car",
+      "Color": "blue",
+      "name": "Tesla Model Y+"
+    },
+    {
+      "id": "623e11b40deba230d561f262",
+      "key": 9,
+      "price": 51000,
+      "picture": "https://www.freepik.com/free-photo/yellow-sport-sedan-road-side-view_6159502.htm?query=car",
+      "Color": "yellow",
+      "name": "Tesla Model S-pro"
+    }
+]
