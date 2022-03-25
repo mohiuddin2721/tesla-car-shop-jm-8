@@ -1,11 +1,13 @@
 import './App.css';
 import Header from './component/Header/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Shop from './component/Shop/Shop';
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
+      <Shop></Shop>
     </div>
   );
 }
