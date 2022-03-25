@@ -1,0 +1,15 @@
+.header-title h1 {
+    color: cornflowerblue;
+}
+
+.header-title h1:hover {
+    color: brown;
+}
+
+.header-title h3 {
+    color: brown;
+}
+
+.header-title h3:hover {
+    color: cornflowerblue;
+}
