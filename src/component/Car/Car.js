@@ -4,7 +4,7 @@ import React from 'react';
 import './Car.css'
 
 const Car = (props) => {
-    console.log(props.product);
+    // console.log(props.product);
     const {name, price, id, picture} = props.product;
     return (
         <div className='car'>

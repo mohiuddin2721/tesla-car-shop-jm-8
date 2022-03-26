@@ -1,0 +1,12 @@
+.cart {
+    background-color: rgba(128, 128, 128, 0.267);
+    border-radius: 20px;
+}
+
+.choose-one-btn {
+    color: green;
+}
+
+.select-again-btn {
+    color: darkmagenta;
+}
