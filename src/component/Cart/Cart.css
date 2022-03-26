@@ -13,14 +13,14 @@
     color: darkmagenta;
 }
 .selected-img {
-    width: 60px;
-    height: 30px;
+    width: 80px;
+    height: 40px;
     border-radius: 50px;
 }
 
 @media screen and (max-width:600px) {
     .cart {
         margin-left: 50px;
-        padding: 20px;
+        padding: 40px;
     }
 }

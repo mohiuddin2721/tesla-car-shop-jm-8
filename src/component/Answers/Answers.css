@@ -1,0 +1,13 @@
+.answers {
+    background-color: rgba(255, 228, 196, 0.37);
+    padding: 100px;
+    border-radius: 50px;
+}
+
+@media screen and (max-width:600px) {
+   .answers {
+       position: relative;
+       top: 3300px;
+       padding: 20px;
+   }
+}

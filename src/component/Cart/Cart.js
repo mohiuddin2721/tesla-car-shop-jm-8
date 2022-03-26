@@ -2,16 +2,13 @@ import React from 'react';
 import './Cart.css';
 
 const Cart = (props) => {
-    console.log(props.cart);
+    // console.log(props);
     const {picture, name} = props.cart;
-    
-    let pictures = {};
-    let names = {};
-
 
     const removeItems = () => {
         document.getElementById('selected-car').innerHTML = '';
     }
+
     return (
         <div className='cart'>
             <h3>Selected Cars</h3>
