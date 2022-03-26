@@ -12,9 +12,8 @@ const Cart = (props) => {
         <div className='cart'>
             <h3>Selected Cars</h3>
             <div className='selected-cars' id='selected-car'>
-                {/* <img className='selected-img' src={picture} alt="" /> {name} */}
                 {
-                    props.cart.map(product => <SingleProduct product={product}></SingleProduct>)
+                    props.cart.map(product => <SingleProduct key={product.id} product={product}></SingleProduct>)
                 }
             </div>
             
