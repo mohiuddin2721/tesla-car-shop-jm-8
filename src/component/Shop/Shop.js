@@ -28,9 +28,12 @@ const Shop = () => {
 
     const handleRandom = () => {
         const exist = [...cart];
-        const index = Math.floor(Math.random() * exist.length);
-        const random = exist[index];
-        setCart([random]);
+        if (exist.length > 0) {
+            const index = Math.floor(Math.random() * exist.length);
+            const random = exist[index];
+            setCart([random]);
+        }
+        
     }
 
     return (
