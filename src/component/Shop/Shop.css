@@ -12,15 +12,18 @@
 }
 
 @media screen and (max-width:600px) {
+    .shop-container {
+        position: relative;
+        max-height: 1000px;
+    }
     .product-container {
         grid-template-columns: repeat(1, 1fr);
         margin-top: 200px;
+        position: relative;
     }
     .cart-container {
         position: absolute;
         top: 0;
-    }
-    .cart {
-        align-items: center;
+        max-height: 200px;
     }
 }

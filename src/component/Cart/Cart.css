@@ -1,6 +1,8 @@
 .cart {
     background-color: rgba(128, 128, 128, 0.267);
     border-radius: 20px;
+    position: sticky;
+    top: 0;
 }
 
 .choose-one-btn {
@@ -9,6 +11,10 @@
 
 .select-again-btn {
     color: darkmagenta;
+}
+.selected-img {
+    width: 60px;
+    border-radius: 20px;
 }
 
 @media screen and (max-width:600px) {

@@ -1,3 +1,7 @@
+.header-title {
+    position: relative;
+}
+
 .header-title h1 {
     color: cornflowerblue;
 }
