@@ -18,7 +18,7 @@
     }
     .product-container {
         grid-template-columns: repeat(1, 1fr);
-        top: 250px;
+        top: 350px;
         position: relative;
     }
     .cart-container {

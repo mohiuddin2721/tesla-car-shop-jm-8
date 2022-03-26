@@ -20,6 +20,7 @@
 
 @media screen and (max-width:600px) {
     .cart {
+        margin-bottom: 300px;
         margin-left: 50px;
         padding: 40px;
     }
