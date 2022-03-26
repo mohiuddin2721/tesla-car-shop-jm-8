@@ -10,3 +10,10 @@
 .select-again-btn {
     color: darkmagenta;
 }
+
+@media screen and (max-width:600px) {
+    .cart {
+        margin-left: 50px;
+        padding: 20px;
+    }
+}

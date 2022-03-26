@@ -1,6 +1,7 @@
 .shop-container {
     display: grid;
     grid-template-columns: 4fr 1fr;
+    position: relative;
 }
 
 .product-container {
@@ -12,6 +13,14 @@
 
 @media screen and (max-width:600px) {
     .product-container {
-        grid-template-columns: 2fr;
+        grid-template-columns: repeat(1, 1fr);
+        margin-top: 200px;
+    }
+    .cart-container {
+        position: absolute;
+        top: 0;
+    }
+    .cart {
+        align-items: center;
     }
 }
